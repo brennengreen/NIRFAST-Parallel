@@ -7,7 +7,7 @@ This implementation is being used by the [University of Kentucky Biomedical Opti
 
 - mean_filter.m
 
-## NIRFASTMatlab v9.0 -- PARALELL IMPLEMENTATION
+## NIRFASTMatlab v9.0 -- PARALLEL IMPLEMENTATION
 
 07/16/2020
 
