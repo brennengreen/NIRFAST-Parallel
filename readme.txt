@@ -1,5 +1,12 @@
-NIRFASTMatlab v9.0
-4/20/2016
+IMPLEMENTATION SPECIFIC:
+This implementation uses the MATLAB GPU Computing toolkit to parallelize several functions in NIRFAST.
+This implementation is being used by the (University of Kentucky Biomedical Optics Lab)[https://bioptics.engr.uky.edu/]
+
+Current Changes:
+- mean_filter.m
+
+NIRFASTMatlab v9.0 -- Paralell Implementation
+07/16/2020
 
 NIRFAST is now a combined software package consisting of two main components:
 1. NIRFASTSlicer - A medical image processing and analysis component built on the 3DSLicer 2. NIRFASTMatlab - The mesh generation and optical computation component built on MATLAB 
